@@ -23,7 +23,7 @@ TODO: develop "reading happen more often than writting", "how human read (**not*
 
 ```C++
 auto comparison = strcmp ( name, term ) ;
-integrity = ( comparison == 0 ) ;
+integrity = comparison == 0 ;
 
 if ( integrity == false )
 ```
