@@ -31,8 +31,8 @@ if ( integrity == false )
 ```C++
 // Although pushed far, a few macro definitions allow to obtain a strict equivalent as follow.
 // Note: this is a case where the code keep a token for token match, rather than including conciseness considerations.
-auto comparison store equivalence of name, term tupled ay
-bool integrity store how comparison proves indifferentiation ay
+autotyped comparison store equivalence of name, term tupled ay
+bivalent integrity store how comparison proves indifferentiation ay
 
 if actually integrity proves false then
 […]
