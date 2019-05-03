@@ -26,6 +26,9 @@ auto comparison = strcmp ( name, term ) ;
 bool integrity = comparison == 0 ;
 
 if ( integrity == false )
+// […]
+
+bool decision = criterium ? first_option : second_option;
 ```
 
 ```C++
@@ -35,6 +38,8 @@ autotyped comparison store equivalence of name, term tupled ay
 bivalent integrity store how comparison proves indifferentiation ay
 
 if actually integrity proves false then
-[…]
+// […]
+
+bivalent decision store criterium assessing first_option against second_option ay
 ```
 
